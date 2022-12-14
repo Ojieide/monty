@@ -196,11 +196,6 @@ $ cd Betty; ./install.sh
 * **Daniel Udo**
 
 
-## :mag: License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-
 ## :mega: Acknowledgments
 
 * ALX (providing guidance)
